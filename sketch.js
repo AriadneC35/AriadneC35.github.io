@@ -7,7 +7,7 @@
 //                                                 |    1 - direção(3) = serve para armazenar a direção que está indo   
 // ----------------------------------------------------## VARIÁVEIS ##---------------------------------------------------------------------
 //Variáveis do Jogador                                   
-jogador = [0, 3, 10,70];     // parâmetro = [Origem(0), velocidade(1), diâmetro(2),vida(3)];
+jogador = [0, 3, 10,110];     // parâmetro = [Origem(0), velocidade(1), diâmetro(2),vida(3)];
 
 
 //Variáveis para os insetos
